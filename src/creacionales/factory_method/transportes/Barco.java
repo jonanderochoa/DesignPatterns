@@ -1,4 +1,4 @@
-package creacionales.factory_method;
+package creacionales.factory_method.transportes;
 
 /**
  * Entidad Barco que es un Transporte
