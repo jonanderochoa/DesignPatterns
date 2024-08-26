@@ -19,7 +19,6 @@ VENTAJAS:
 - Desacoplamiento
 - Extensibilidad
 - Centralizacion de la logica de creacion
-- 
 
 ¿Porque no usar la interfaz Transporte directamente?
 - Alto acoplamiento
