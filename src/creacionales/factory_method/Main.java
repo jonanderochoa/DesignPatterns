@@ -16,5 +16,4 @@ public class Main {
     logisticaFactory = new LogisticaFactoryCamion();  // Cambio de la logistica a la de Camion
     logisticaFactory.enviarTransporte();  // Creacion del camion y envio
   }
-
 }

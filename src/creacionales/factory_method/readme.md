@@ -14,3 +14,20 @@ Cuando no sabes de antemano qué tipo de objetos se van a crear.
 Cuando quieres que las subclases decidan qué clase concreta instanciar.
 Cuando quieres reducir el acoplamiento entre el código que utiliza los objetos y las clases
 concretas de estos objetos.
+
+VENTAJAS:
+- Desacoplamiento
+- Extensibilidad
+- Centralizacion de la logica de creacion
+- 
+
+¿Porque no usar la interfaz Transporte directamente?
+- Alto acoplamiento
+- Dificil de extender
+- Mantenimiento complicado
+
+Usar la interfaz Transporte directamente puede funcionar en casos simples, pero cuando tu aplicación
+crece y necesitas mayor flexibilidad, extensibilidad y un bajo acoplamiento entre las partes del
+sistema, el Factory Method se convierte en una solución mucho más robusta y mantenible. Este patrón
+te permite encapsular la lógica de creación de objetos, facilitando la adición de nuevos tipos de
+productos y la centralización de la lógica asociada a su creación.
