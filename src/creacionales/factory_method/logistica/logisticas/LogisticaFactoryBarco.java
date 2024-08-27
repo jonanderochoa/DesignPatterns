@@ -1,7 +1,7 @@
-package creacionales.factory_method.logisticas;
+package creacionales.factory_method.logistica.logisticas;
 
-import creacionales.factory_method.transportes.Barco;
-import creacionales.factory_method.transportes.Transporte;
+import creacionales.factory_method.logistica.transportes.Barco;
+import creacionales.factory_method.logistica.transportes.Transporte;
 
 /**
  * Clase concreta de creacion de barcos.

@@ -1,4 +1,4 @@
-package creacionales.factory_method.transportes;
+package creacionales.factory_method.logistica.transportes;
 
 /**
  * Interfaz transporte de la que extienden todos los transportes y que tienen el metodo comun enviar

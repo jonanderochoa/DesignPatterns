@@ -1,8 +1,8 @@
-package creacionales.factory_method;
+package creacionales.factory_method.logistica;
 
-import creacionales.factory_method.logisticas.LogisticaFactory;
-import creacionales.factory_method.logisticas.LogisticaFactoryBarco;
-import creacionales.factory_method.logisticas.LogisticaFactoryCamion;
+import creacionales.factory_method.logistica.logisticas.LogisticaFactory;
+import creacionales.factory_method.logistica.logisticas.LogisticaFactoryBarco;
+import creacionales.factory_method.logistica.logisticas.LogisticaFactoryCamion;
 
 public class Main {
 

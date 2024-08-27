@@ -1,4 +1,4 @@
-package creacionales.factory_method.transportes;
+package creacionales.factory_method.logistica.transportes;
 
 /**
  * Entidad Camion que es un Transporte

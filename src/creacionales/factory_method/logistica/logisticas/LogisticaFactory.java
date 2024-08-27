@@ -1,6 +1,6 @@
-package creacionales.factory_method.logisticas;
+package creacionales.factory_method.logistica.logisticas;
 
-import creacionales.factory_method.transportes.Transporte;
+import creacionales.factory_method.logistica.transportes.Transporte;
 
 /**
  * Clase abstracta que crea Transportes y los envia
@@ -8,8 +8,8 @@ import creacionales.factory_method.transportes.Transporte;
 public abstract class LogisticaFactory {
 
   /**
-   * Metodo abstracto de creacion de Transporte
-   *
+   * Factory Method
+   * Metodo de creacion de Transporte
    * @return Transporte
    */
   protected abstract Transporte createTransporte();
