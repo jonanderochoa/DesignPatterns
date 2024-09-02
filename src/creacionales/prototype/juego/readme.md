@@ -37,3 +37,5 @@ la lógica de creación, lo que es útil para manejar variaciones de enemigos en
 Este ejemplo muestra cómo el patrón Prototype se puede usar en videojuegos para manejar la creación
 de múltiples instancias de objetos similares de manera eficiente, manteniendo la flexibilidad para
 personalizar las copias según sea necesario.
+
+Un objeto que soporta la clonación se denomina prototipo. 

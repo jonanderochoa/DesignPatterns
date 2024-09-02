@@ -1,6 +1,4 @@
-package creacionales.prototype;
-
-import creacionales.factory_method.juego.enemies.Enemy;
+package creacionales.prototype.juego;
 
 /**
  * Definimos una clase Enemigo que representa a un enemigo en el juego. Esta clase implementa la

@@ -1,4 +1,4 @@
-package creacionales.prototype;
+package creacionales.prototype.juego;
 
 import java.util.ArrayList;
 import java.util.List;

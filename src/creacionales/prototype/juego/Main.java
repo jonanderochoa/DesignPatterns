@@ -1,6 +1,4 @@
-package creacionales.prototype;
-
-import creacionales.factory_method.juego.enemies.Enemy;
+package creacionales.prototype.juego;
 
 public class Main {
 

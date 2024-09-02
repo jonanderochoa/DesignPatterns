@@ -1,4 +1,4 @@
-package creacionales.prototype;
+package creacionales.prototype.juego;
 
 public class Elemento {
 
